@@ -1,4 +1,4 @@
-Logs
-Reports
-Screenshots
+Logs/*.log
+Reports/*.html
+Screenshots/*.png
 .DS_Store
